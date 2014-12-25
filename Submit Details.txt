@@ -1,0 +1,4 @@
+stuff to do :
+
+check input before set / get
+throw exceptions where needed
