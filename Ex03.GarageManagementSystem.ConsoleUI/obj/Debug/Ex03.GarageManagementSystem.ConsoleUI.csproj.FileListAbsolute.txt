@@ -1,0 +1,7 @@
+C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageManagementSystem.ConsoleUI\bin\Debug\Ex03.GarageManagementSystem.ConsoleUI.exe
+C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageManagementSystem.ConsoleUI\bin\Debug\Ex03.GarageManagementSystem.ConsoleUI.pdb
+C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageManagementSystem.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageManagementSystem.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageManagementSystem.ConsoleUI\obj\Debug\Ex03.GarageManagementSystem.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageManagementSystem.ConsoleUI\obj\Debug\Ex03.GarageManagementSystem.ConsoleUI.exe
+C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageManagementSystem.ConsoleUI\obj\Debug\Ex03.GarageManagementSystem.ConsoleUI.pdb

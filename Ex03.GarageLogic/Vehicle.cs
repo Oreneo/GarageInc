@@ -9,7 +9,7 @@ namespace Ex03.GarageLogic
         protected string m_ModelName;
         protected string m_PlateNumber;
         protected float m_PercentOfRemainingEnergy;
-        protected List<int> m_Wheels;      // list of wheels object with properties and shit
+        protected List<Wheel> m_Wheels;      // list of wheels object with properties and shit
         protected int m_NumOfWheels;
         protected float m_WheelAirPressure;
 
@@ -85,6 +85,16 @@ namespace Ex03.GarageLogic
             {
                 m_WheelAirPressure = value;
             }
+        }
+
+        public Wheel getWheelAtIndex(int index)
+        {
+            return m_Wheels[index];
+        }
+
+        public void setWheelAtIndex(Wheel i_Wheel, int index)
+        {
+            m_Wheels[index] = i_Wheel;
         }
     }
 }

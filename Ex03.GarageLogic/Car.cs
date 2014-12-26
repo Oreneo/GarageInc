@@ -21,7 +21,7 @@ namespace Ex03.GarageLogic
             m_CarColor = i_CarColor;
             r_NumOfDoors = i_NumOfDoors;
 
-            m_Wheels = new List<int>(m_NumOfWheels);  // check in runtime if m_Wheels has been recieved from the son
+            m_Wheels = new List<Wheel>(m_NumOfWheels);  // check in runtime if m_Wheels has been recieved from the son
         }
 
         public enum eCarColor
