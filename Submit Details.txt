@@ -1,4 +1,17 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 302324272 - Oren Nahum
+Second Student Details: 300461498 - Tomer Berger
+Delivery Date.........: 30 - December - 2014
+Delivered In Delay....: No
+Visual Studio Version.: 2013
+Comments..............: 
+========================End Exercise Checking Report========================
+
+
 stuff to do :
 
 check input before set / get
-throw exceptions where needed
+throw exceptions where needed - 3 types, when parsing.
+inheritance / virtual methods......
+diagram

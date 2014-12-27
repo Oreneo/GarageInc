@@ -3,3 +3,8 @@ C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.
 C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
 C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
 C:\Users\Tomer\Source\Repos\Garage\A15 Ex03 Oren 302324272 Tomer 300461498\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+E:\Dev\VS work\Garage\GarageInc\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+E:\Dev\VS work\Garage\GarageInc\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+E:\Dev\VS work\Garage\GarageInc\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojResolveAssemblyReference.cache
+E:\Dev\VS work\Garage\GarageInc\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+E:\Dev\VS work\Garage\GarageInc\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb

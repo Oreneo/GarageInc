@@ -7,7 +7,7 @@ namespace Ex03.GarageLogic
     public abstract class Motorcycle : Vehicle
     {
         protected eLicenseType m_LicenseType;
-        protected int m_EngineCapacityCc;
+        protected int m_EngineCapacityCc;          // 50 - 2000
         private const int k_MotorcycleNumOfWheels = 2;
         private const float k_CarWheelAirPressure = 30;
 
@@ -23,10 +23,10 @@ namespace Ex03.GarageLogic
 
         public enum eLicenseType
         {
-            A,
-            A1,
-            AB,
-            B2
+            A = 1,
+            A1 = 2,
+            AB = 3,
+            B2 = 4
         }
 
         public eLicenseType LicenseType

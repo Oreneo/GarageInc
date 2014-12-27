@@ -6,6 +6,9 @@ namespace Ex03.GarageLogic
 {
     public class VehicleGenerator
     {
+        List<Vehicle> Vehicles = new List<Vehicle>();
+        // will create a vehicle via consturctor of respectable vehicle
+
         public enum eVehicleType
         {
             GasMotorcycle = 1,
